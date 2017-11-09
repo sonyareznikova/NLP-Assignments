@@ -1,0 +1,8 @@
+*.db
+*.pdf
+feedback_mvideo.csv.rar
+*.zip
+*.pages
+*.vocab
+aclImdb/
+lstm_reznikova/
